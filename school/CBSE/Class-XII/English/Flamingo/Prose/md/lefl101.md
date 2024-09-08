@@ -7,8 +7,7 @@ author: Alphonse Daudet
 lifespan: 1840-1897
 ---
 
-Alphonse Daudet (1840-1897) was a French novelist and short-story writer. The Last Lesson is set in the days of the Franco-Prussian War (1870-1871) in which
-France was defeated by Prussia led by Bismarck. Prussia then consisted of what now are the nations of Germany, Poland and parts of Austria. In this story the French districts of Alsace and Lorraine have passed into Prussian hands. Read the story to find out what effect this had on life at school.
+Alphonse Daudet (1840-1897) was a French novelist and short-story writer. The Last Lesson is set in the days of the Franco-Prussian War (1870-1871) in which France was defeated by Prussia led by Bismarck. Prussia then consisted of what now are the nations of Germany, Poland and parts of Austria. In this story the French districts of Alsace and Lorraine have passed into Prussian hands. Read the story to find out what effect this had on life at school.
 
 ## Content
 
