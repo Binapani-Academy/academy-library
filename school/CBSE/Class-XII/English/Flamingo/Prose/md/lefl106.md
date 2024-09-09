@@ -115,7 +115,7 @@ And years later, when I was out of Gemini Studios and I had much time but not mu
 
 1. Greta Garbo: A Swedish actress, in 1954 she received an Honorary Oscar for her unforgettable screen performances. The Guinness Book of World Records named her the most beautiful woman who ever lived. She was also voted Best Silent Actress of the country.
 
-2. Vyjayantimala: An Indian actress whose performance was widely appreciated in Bimal Roy’s Devdas. She won three Best Actress awards for her acting. She is now an active politician.
+2. Vyjayantimala: An Indian actress whose performance was widely appreciated in Bimal Roy's Devdas. She won three Best Actress awards for her acting. She is now an active politician.
 
 3. S.D.S.Yogiar: A freedom fighter and a national poet.
 
@@ -131,7 +131,7 @@ And years later, when I was out of Gemini Studios and I had much time but not mu
 
 9. Arthur Koestler: A Hungarian born British novelist, known for his novel Darkness at Noon.
 
-10. Louis Fischer: A well known American journalist and a writer of Mahatma Gandhi’s biography entitled The Life of Mahatma Gandhi. The Oscar winning film Gandhi is based on this biographical account.
+10. Louis Fischer: A well known American journalist and a writer of Mahatma Gandhi's biography entitled The Life of Mahatma Gandhi. The Oscar winning film Gandhi is based on this biographical account.
 
 ## About
 
