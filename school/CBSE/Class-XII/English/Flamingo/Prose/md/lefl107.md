@@ -26,6 +26,8 @@ Since its invention a little over 130 years ago, the interview has become a comm
 pages:
     - 1
     - 2
+footnotes:
+    V. S. Naipaul: Known as a cosmopolitan writer. In his travel books and in his documentary works he presents his impressions of the country of his ancestors that is India. He received the Nobel Prize in Literature in 2001.
 ---
 
 Some might make quite extravagant claims for it as being, in its highest form, a source of truth, and, in its practice, an art. Others, usually celebrities who see themselves as its victims, might despise the interview as an unwarranted intrusion into their lives, or feel that it somehow diminishes them, just as in some primitive cultures it is believed that if one takes a photographic portrait of somebody then one is stealing that person's soul. V. S. Naipaul 'feels that some people are wounded by interviews and lose a part of themselves,' Lewis Carroll, the creator of Alice in Wonderland, was said to have had 'a just horror of the interviewer' and he never consented to be interviewed — It was his horror of being lionized which made him thus repel would be acquaintances, interviewers, and the persistent petitioners for his autograph and he would afterwards relate the stories of his success in silencing all such people with much satisfaction and amusement.
@@ -33,6 +35,10 @@ Some might make quite extravagant claims for it as being, in its highest form, a
 ---
 pages:
     - 2
+footnotes:
+    Rudyard Kipling: A prolific writer who was known as the poet of the common soldier. Kipling's Jungle Book which is a story of Kimball O' Hara and his adventures in the Himalayas is considered as a children's classic all over the world.
+    H. G. Wells: An English novelist, journalist, sociologist and historian he is known for his works of science fiction. Wells best known books are The Time Machine, The Invisible Man and The War of the Worlds.
+    Joseph Stalin: A great Russian revolutionary and an active political organiser.
 ---
 
 Rudyard Kipling expressed an even more condemnatory attitude towards the interviewer. His wife, Caroline, writes in her diary for 14 October 1892 that their day was 'wrecked by two reporters from Boston'. She reports her husband as saying to the reporters, "Why do I refuse to be interviewed? Because it is immoral! It is a crime, just as much of a crime as an offence against my person, as an assault, and just as much merits punishment. It is cowardly and vile. No respectable man would ask it, much less give it," Yet Kipling had himself perpetrated such an 'assault' on Mark Twain only a few years before. H. G. Wells in an interview in 1894 referred to 'the interviewing ordeal', but was a fairly frequent interviewee and forty years later found himself interviewing Joseph Stalin.
@@ -40,6 +46,8 @@ Rudyard Kipling expressed an even more condemnatory attitude towards the intervi
 ---
 pages:
     - 2
+footnotes:
+    Saul Bellow: A playwright as well as a novelist, Bellow's works were influenced widely by World War II. Among his most famous characters are Augie March and Moses. He published short stories translated from Yiddish. He won the Nobel Prize for Literature in 1976.
 ---
 
 Saul Bellow, who has consented to be interviewed on several occasions, nevertheless once described interviews as being like thumbprints on his windpipe. Yet despite the drawbacks of the interview, it is a supremely serviceable medium of communication.

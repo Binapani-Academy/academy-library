@@ -15,6 +15,9 @@ Asokamitran (1931–2017), a Tamil writer, recounts his years at Gemini Studios 
 pages:
     - 1
     - 2
+footnotes:
+    Greta Garbo: A Swedish actress, in 1954 she received an Honorary Oscar for her unforgettable screen performances. The Guinness Book of World Records named her the most beautiful woman who ever lived. She was also voted Best Silent Actress of the country.
+    Vyjayantimala: An Indian actress whose performance was widely appreciated in Bimal Roy's Devdas. She won three Best Actress awards for her acting. She is now an active politician.
 ---
 
 Pancake was the brand name of the make-up material that Gemini Studios bought in truck-loads. Greta Garbo must have used it, Miss Gohar must have used it, Vyjayantimala must also have used it but Rati Agnihotri may not have even heard of it. The make-up department of the Gemini Studios was in the upstairs of a building that was believed to have been Robert Clive's stables. A dozen other buildings in the city are said to have been his residence. For his brief life and an even briefer stay in Madras, Robert Clive seems to have done a lot of moving, besides fighting some impossible battles in remote corners of India and marrying a maiden in St. Mary's Church in Fort St. George in Madras.
@@ -54,6 +57,9 @@ You saw Subbu always with The Boss but in the attendance rolls, he was grouped u
 ---
 pages:
     - 6
+footnotes:
+    S.D.S.Yogiar: A freedom fighter and a national poet.
+    Harindranath Chattopadhyaya: A poet and a playwright.
 ---
 
 Gemini Studios was the favourite haunt of poets like S.D.S.Yogiar, Sangu Subramanyam, Krishna Sastry and Harindranath Chattopadhyaya. It had an excellent mess which supplied good coffee at all times of the day and for most part of the night. Those were the days when Congress rule meant Prohibition and meeting over a cup of coffee was rather satisfying entertainment. Barring the office boys and a couple of clerks, everybody else at the Studios radiated leisure, a pre-requisite for poetry. Most of them wore khadi and worshipped Gandhiji but beyond that they had not the faintest appreciation for political thought of any kind. Naturally, they were all averse to the term 'Communism'. A Communist was a godless man — he had no filial or conjugal love; he had no compunction about killing his own parents or his children; he was always out to cause and spread unrest and violence among innocent and ignorant people. Such notions which prevailed everywhere else in South India at that time also, naturally, floated about vaguely among the khadi-clad poets of Gemini Studios. Evidence of it was soon forthcoming.
@@ -99,6 +105,8 @@ At last, around four in the afternoon, the poet (or the editor) arrived. He was 
 pages:
     - 8
     - 9
+footnotes:
+    Stephen Spender: An English poet essayist who concentrated on themes of social injustice and class struggle.
 ---
 
 The great prose-writers of the world may not admit it, but my conviction grows stronger day after day that prose-writing is not and cannot be the true pursuit of a genius. It is for the patient, persistent, persevering drudge with a heart so shrunken that nothing can break it; rejection slips don't mean a thing to him; he at once sets about making a fresh copy of the long prose piece and sends it on to another editor enclosing postage for the return of the manuscript. It was for such people that The Hindu had published a tiny announcement in an insignificant corner of an unimportant page — a short story contest organised by a British periodical by the name The Encounter. Of course, The Encounter wasn't a known commodity among the Gemini literati. I wanted to get an idea of the periodical before I spent a considerable sum in postage sending a manuscript to England. In those days, the British Council Library had an entrance with no long winded signboards and notices to make you feel you were sneaking into a forbidden area. And there were copies of The Encounter lying about in various degrees of freshness, almost untouched by readers. When I read the editor's name, I heard a bell ringing in my shrunken heart. It was the poet who had visited the Gemini Studios — I felt like I had found a long lost brother and I sang as I sealed the envelope and wrote out his address. I felt that he too would be singing the same song at the same time — long lost brothers of Indian films discover each other by singing the same song in the first reel and in the final reel of the film. Stephen Spender. Stephen — that was his name.
@@ -107,6 +115,13 @@ The great prose-writers of the world may not admit it, but my conviction grows s
 pages:
     - 9
     - 10
+footnotes:
+    Stephen Spender: An English poet essayist who concentrated on themes of social injustice and class struggle.
+    Andre Gide: A French writer, humanist, moralist, received the Nobel Prize for Literature in 1947.
+    Richard Wright: An American writer, known for his novel Native Son and his autobiography Black Boy.
+    Ignazio Silone: An Italian writer, who was the founder member of the Italian communist party in 1921, and is known for the book. The God That Failed, authored by him.
+    Arthur Koestler: A Hungarian born British novelist, known for his novel Darkness at Noon.
+    Louis Fischer: A well known American journalist and a writer of Mahatma Gandhi's biography entitled The Life of Mahatma Gandhi. The Oscar winning film Gandhi is based on this biographical account.    
 ---
 
 And years later, when I was out of Gemini Studios and I had much time but not much money, anything at a reduced price attracted my attention. On the footpath in front of the Madras Mount Road Post Office, there was a pile of brand new books for fifty paise each. Actually they were copies of the same book, an elegant paperback of American origin. 'Special low-priced student edition, in connection with the 50th Anniversary of the Russian Revolution', I paid fifty paise and picked up a copy of the book, The God That Failed. Six eminent men of letters in six separate essays described 'their journeys into Communism and their disillusioned return'; Andre Gide, Richard Wright, Ignazio Silone, Arthur Koestler, Louis Fischer and Stephen Spender. Stephen Spender! Suddenly the book assumed tremendous significance. Stephen Spender, the poet who had visited Gemini Studios! In a moment I felt a dark chamber of my mind lit up by a hazy illumination. The reaction to Stephen Spender at Gemini Studios was no longer a mystery. The Boss of the Gemini Studios may not have much to do with Spender's poetry. But not with his god that failed.
@@ -119,7 +134,7 @@ And years later, when I was out of Gemini Studios and I had much time but not mu
 
 3. S.D.S.Yogiar: A freedom fighter and a national poet.
 
-4. Harindranath  Chattopadhyaya: A poet and a playwright.
+4. Harindranath Chattopadhyaya: A poet and a playwright.
 
 5. Stephen Spender: An English poet essayist who concentrated on themes of social injustice and class struggle.
 
